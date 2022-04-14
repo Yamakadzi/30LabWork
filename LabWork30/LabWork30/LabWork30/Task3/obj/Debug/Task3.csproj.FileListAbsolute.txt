@@ -1,0 +1,16 @@
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\bin\Debug\Task3.exe.config
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\bin\Debug\Task3.exe
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\bin\Debug\Task3.pdb
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\obj\Debug\Task3.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\obj\Debug\MainWindow.g.cs
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\obj\Debug\App.g.cs
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\obj\Debug\Task3_MarkupCompile.cache
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\obj\Debug\Task3_MarkupCompile.lref
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\obj\Debug\MainWindow.baml
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\obj\Debug\Task3.g.resources
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\obj\Debug\Task3.Properties.Resources.resources
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\obj\Debug\Task3.exe
+D:\Visual Studio\LabWork30\LabWork30\LabWork30\Task3\obj\Debug\Task3.pdb

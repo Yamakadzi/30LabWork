@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3fbc1df4-bd5c-4069-bc07-f56dffd5afa0": {
+      "ProjectGuid": "3fbc1df4-bd5c-4069-bc07-f56dffd5afa0",
+      "DisplayName": "Task1",
+      "ColorIndex": 0
+    },
+    "ea047b13-131c-43f3-9b3f-c7b1287e820f": {
+      "ProjectGuid": "ea047b13-131c-43f3-9b3f-c7b1287e820f",
+      "DisplayName": "WpfLibrary1",
+      "ColorIndex": 1
+    },
+    "ff2b0f93-0c0b-434b-bc1b-e8241c3213f5": {
+      "ProjectGuid": "ff2b0f93-0c0b-434b-bc1b-e8241c3213f5",
+      "DisplayName": "Task2",
+      "ColorIndex": 2
+    },
+    "43dc77bd-e3c2-4c75-ac23-9dd378e5899e": {
+      "ProjectGuid": "43dc77bd-e3c2-4c75-ac23-9dd378e5899e",
+      "DisplayName": "WpfControlLibrary1",
+      "ColorIndex": 3
+    },
+    "760d3311-270b-46d6-9ef3-2c4059aaffed": {
+      "ProjectGuid": "760d3311-270b-46d6-9ef3-2c4059aaffed",
+      "DisplayName": "WpfCustomControlLibrary1",
+      "ColorIndex": 4
+    },
+    "d80f759e-5dc3-429b-82a0-6a06ec2d7a34": {
+      "ProjectGuid": "d80f759e-5dc3-429b-82a0-6a06ec2d7a34",
+      "DisplayName": "Task3",
+      "ColorIndex": 5
+    },
+    "59fb0512-dc22-41a4-88b2-b4e5de5133b2": {
+      "ProjectGuid": "59fb0512-dc22-41a4-88b2-b4e5de5133b2",
+      "DisplayName": "Task3",
+      "ColorIndex": 6
+    },
+    "14546203-ea44-440c-8c6c-35763366e085": {
+      "ProjectGuid": "14546203-ea44-440c-8c6c-35763366e085",
+      "DisplayName": "Task3",
+      "ColorIndex": 7
+    },
+    "6442115d-eeba-4e52-a87f-336e76fb2480": {
+      "ProjectGuid": "6442115d-eeba-4e52-a87f-336e76fb2480",
+      "DisplayName": "Task3",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
